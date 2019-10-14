@@ -1,0 +1,1 @@
+<?= $this->Html->Link("Cadastrar Usuário", ["controller" => "users", "action" => "add"]); ?>

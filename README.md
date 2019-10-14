@@ -1,2 +1,3 @@
-# alura
-Projetos desenvolvidos durante os curso da Alura :)
+# Alura - Curso de CakePHP I e II
+
+Projeto desenvolvido durante o curso de CakePHP da Alura :)
